@@ -469,7 +469,15 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@^0.57.7":
+"@types/react-native-vector-icons@^4.6.4":
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/@types/react-native-vector-icons/-/react-native-vector-icons-4.6.4.tgz#83c2d88f0c2615a44b9059eb75c11f92702c1ee2"
+  integrity sha512-G2JD98lrgjggA979WeTXlj6He1sN4Skpd4UJlcVDsD71u1yHf8raT9D7OP4vb3LZWX6ILYkVa4dzLtVkt4wyWA==
+  dependencies:
+    "@types/react" "*"
+    "@types/react-native" "*"
+
+"@types/react-native@*", "@types/react-native@^0.57.7":
   version "0.57.7"
   resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.57.7.tgz#4cbc81de4f0f54985b20dc25010744889176e775"
   dependencies:
@@ -2879,6 +2887,11 @@ decompress-response@^3.2.0, decompress-response@^3.3.0:
   resolved "https://registry.yarnpkg.com/decompress-response/-/decompress-response-3.3.0.tgz#80a4dd323748384bfa248083622aedec982adff3"
   dependencies:
     mimic-response "^1.0.0"
+
+dedent@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.6.0.tgz#0e6da8f0ce52838ef5cec5c8f9396b0c1b64a3cb"
+  integrity sha1-Dm2o8M5Sg471zsXI+TlrDBtko8s=
 
 deep-computed@^0.0.6:
   version "0.0.6"
@@ -6251,6 +6264,21 @@ loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
+lottie-ios@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/lottie-ios/-/lottie-ios-2.5.0.tgz#55c808e785d4a6933b0c10b395530b17098b05de"
+  integrity sha1-VcgI54XUppM7DBCzlVMLFwmLBd4=
+
+lottie-react-native@^2.5.9:
+  version "2.5.9"
+  resolved "https://registry.yarnpkg.com/lottie-react-native/-/lottie-react-native-2.5.9.tgz#af23764b1b6b43230beeb5e62e1ce86cb879a242"
+  integrity sha512-HYYIeoW0v/KLbKEpQZGVyY0yakCgnNJZoOlXl+6NCWtEwrpetrwq5cqNNKarKhJHUlrbXs0ySEOPoPpHd5bo2g==
+  dependencies:
+    invariant "^2.2.2"
+    lottie-ios "^2.5.0"
+    prop-types "^15.5.10"
+    react-native-safe-module "^1.1.0"
+
 lowercase-keys@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.0.tgz#4e3366b39e7f5457e35f1324bdf6f88d0bfc7306"
@@ -7836,9 +7864,9 @@ react-native-intent-launcher@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/react-native-intent-launcher/-/react-native-intent-launcher-0.1.1.tgz#ca703ca343f29772d9acfe2eb028d3dc873a32a6"
 
-react-native-navigation@^1.1.436:
-  version "1.1.457"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-1.1.457.tgz#909012cc3674d3ded9648b4ddd7070b0a6df228a"
+"react-native-navigation@https://github.com/jasonhealy/react-native-navigation":
+  version "1.1.486"
+  resolved "https://github.com/jasonhealy/react-native-navigation#4e35f595fff1d7f156388a7d646f31e4861f1e58"
   dependencies:
     lodash "4.x.x"
 
@@ -7868,6 +7896,13 @@ react-native-randombytes@^3.0.0:
   dependencies:
     buffer "^4.9.1"
     sjcl "^1.0.3"
+
+react-native-safe-module@^1.1.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-safe-module/-/react-native-safe-module-1.2.0.tgz#a23824ca24edc2901913694a76646475113d570d"
+  integrity sha1-ojgkyiTtwpAZE2lKdmRkdRE9Vw0=
+  dependencies:
+    dedent "^0.6.0"
 
 react-native-svg@5.5.1:
   version "5.5.1"
@@ -8018,44 +8053,39 @@ react@16.3.1:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-reactotron-core-client@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/reactotron-core-client/-/reactotron-core-client-1.13.0.tgz#7f82f6c902756c326b9c8a0baf5085d2a0b0f445"
-  dependencies:
-    json-stringify-safe "^5.0.1"
-    ramda "^0.24.1"
-    ramdasauce "^2.0.0"
+reactotron-core-client@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/reactotron-core-client/-/reactotron-core-client-2.1.0.tgz#d36f806eaf14a9f8c4595a9866f8cbfaafc1ee8c"
+  integrity sha512-YnTWbnpuo6Jy3kgBLUqzjbkgdyWlrosQvt1Q2LRPlo39o3n/lfncN/bmO9JQh9hD8A3L7DEQ7XCPpVPek1BJPA==
 
-reactotron-react-native@^1.12.3:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-1.14.0.tgz#9f8ca3d9cd09aa2a6c5179307f97f923afe40a48"
+reactotron-react-native@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-2.1.0.tgz#eefafb8d146e96f037c33ef5d57e5a4ada3124f7"
+  integrity sha512-dx0r6w81K1EHns13Oq3LblaXeWsZ8/0vjX4dgR5W2Jp4l7XpEBirpE+g8J1g+rWhiZObn7Jp3jmCJJoheRAncA==
   dependencies:
-    json-stringify-safe "^5.0.1"
     mitt "^1.1.2"
     prop-types "^15.5.10"
-    ramda "^0.24.1"
-    ramdasauce "^2.0.0"
-    reactotron-core-client "^1.13.0"
-    rn-host-detect "^1.1.3"
-    socket.io-client "~1.7.3"
+    reactotron-core-client "^2.1.0"
 
-reactotron-redux-saga@^1.12.2:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/reactotron-redux-saga/-/reactotron-redux-saga-1.13.0.tgz#f6bb75c16806f2cc09be97e4973743f41a157a18"
+reactotron-redux-saga@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/reactotron-redux-saga/-/reactotron-redux-saga-2.1.0.tgz#deb8ef572ffc60ce1dcac36488ead334f3a344b0"
+  integrity sha512-DlFJMfff9wwlUSvHscP0NNHILQlccr+/egjoQay0czYCk5NM98virA04KaCv0DGQn9vc3/pUdwtxEeqPnklX+Q==
   dependencies:
     ramda "^0.24.1"
     ramdasauce "^2.0.0"
-    reactotron-core-client "^1.13.0"
+    reactotron-core-client "^2.1.0"
     redux "^3.7.1"
     redux-saga "^0.15.3"
 
-reactotron-redux@^1.12.2:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/reactotron-redux/-/reactotron-redux-1.13.0.tgz#20f8ce98cbb5e310e041dc85fc4dc4f904aa5dcc"
+reactotron-redux@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/reactotron-redux/-/reactotron-redux-2.1.0.tgz#69568912e2894cb3d996843bdaa759c3ec59a45a"
+  integrity sha512-HWfDIZN5stZJrdQXp5AWgH12rgGLpXoSV2rC3va0BP9XxwgG+SKA1f2DQ8W2MrDz5wZ47PGLfhHPjqJQUM20dQ==
   dependencies:
     ramda "^0.24.1"
     ramdasauce "^2.0.0"
-    reactotron-core-client "^1.13.0"
+    reactotron-core-client "^2.1.0"
     redux "^3.7.1"
 
 read-chunk@^2.1.0:
@@ -9885,7 +9915,7 @@ write@^0.2.1:
   dependencies:
     mkdirp "^0.5.1"
 
-ws@^1.1.0, ws@~1.1.5:
+ws@^1.1.0:
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/ws/-/ws-1.1.5.tgz#cbd9e6e75e09fc5d2c90015f21f0c40875e0dd51"
   dependencies:

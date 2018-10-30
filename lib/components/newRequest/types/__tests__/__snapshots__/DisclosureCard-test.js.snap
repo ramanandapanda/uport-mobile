@@ -100,7 +100,6 @@ ShallowWrapper {
                   },
                   Object {
                     "marginBottom": 0,
-                    "paddingBottom": 10,
                   },
                 ]
               }
@@ -114,8 +113,9 @@ ShallowWrapper {
                     Object {
                       "color": "#3F3D4B",
                       "flex": 1,
-                      "fontFamily": "NunitoSans-Bold",
+                      "fontFamily": "Montserrat",
                       "fontSize": 24,
+                      "fontWeight": "bold",
                     },
                     Object {
                       "textAlign": "left",
@@ -143,7 +143,7 @@ ShallowWrapper {
                 <Icon
                   color="rgba(155,155,155,1)"
                   name="close"
-                  size={24}
+                  size={30}
                 />
               </TouchableOpacity>
             </Component>
@@ -155,7 +155,8 @@ ShallowWrapper {
                   "marginBottom": 30,
                   "marginLeft": 16,
                   "marginRight": 16,
-                  "marginTop": 0,
+                  "marginTop": 30,
+                  "padding": 20,
                 }
               }
             >
@@ -169,7 +170,7 @@ ShallowWrapper {
                   }
                 }
               >
-                 CREATE NEW ACCOUNT 
+                 Create New Account 
               </Text>
             </PrimaryButton>
           </Component>
@@ -272,7 +273,6 @@ ShallowWrapper {
                   },
                   Object {
                     "marginBottom": 0,
-                    "paddingBottom": 10,
                   },
                 ]
               }
@@ -286,8 +286,9 @@ ShallowWrapper {
                     Object {
                       "color": "#3F3D4B",
                       "flex": 1,
-                      "fontFamily": "NunitoSans-Bold",
+                      "fontFamily": "Montserrat",
                       "fontSize": 24,
+                      "fontWeight": "bold",
                     },
                     Object {
                       "textAlign": "left",
@@ -315,7 +316,7 @@ ShallowWrapper {
                 <Icon
                   color="rgba(155,155,155,1)"
                   name="close"
-                  size={24}
+                  size={30}
                 />
               </TouchableOpacity>
             </Component>
@@ -327,7 +328,8 @@ ShallowWrapper {
                   "marginBottom": 30,
                   "marginLeft": 16,
                   "marginRight": 16,
-                  "marginTop": 0,
+                  "marginTop": 30,
+                  "padding": 20,
                 }
               }
             >
@@ -341,7 +343,7 @@ ShallowWrapper {
                   }
                 }
               >
-                 CREATE NEW ACCOUNT 
+                 Create New Account 
               </Text>
             </PrimaryButton>
           </Component>,
@@ -366,7 +368,6 @@ ShallowWrapper {
                     },
                     Object {
                       "marginBottom": 0,
-                      "paddingBottom": 10,
                     },
                   ]
                 }
@@ -380,8 +381,9 @@ ShallowWrapper {
                       Object {
                         "color": "#3F3D4B",
                         "flex": 1,
-                        "fontFamily": "NunitoSans-Bold",
+                        "fontFamily": "Montserrat",
                         "fontSize": 24,
+                        "fontWeight": "bold",
                       },
                       Object {
                         "textAlign": "left",
@@ -409,11 +411,10 @@ ShallowWrapper {
                   <Icon
                     color="rgba(155,155,155,1)"
                     name="close"
-                    size={24}
+                    size={30}
                   />
                 </TouchableOpacity>
               </Component>,
-              null,
               null,
               null,
               null,
@@ -427,7 +428,8 @@ ShallowWrapper {
                     "marginBottom": 30,
                     "marginLeft": 16,
                     "marginRight": 16,
-                    "marginTop": 0,
+                    "marginTop": 30,
+                    "padding": 20,
                   }
                 }
               >
@@ -441,9 +443,10 @@ ShallowWrapper {
                     }
                   }
                 >
-                   CREATE NEW ACCOUNT 
+                   Create New Account 
                 </Text>
               </PrimaryButton>,
+              null,
               null,
             ],
             "style": Object {
@@ -469,8 +472,9 @@ ShallowWrapper {
                         Object {
                           "color": "#3F3D4B",
                           "flex": 1,
-                          "fontFamily": "NunitoSans-Bold",
+                          "fontFamily": "Montserrat",
                           "fontSize": 24,
+                          "fontWeight": "bold",
                         },
                         Object {
                           "textAlign": "left",
@@ -498,7 +502,7 @@ ShallowWrapper {
                     <Icon
                       color="rgba(155,155,155,1)"
                       name="close"
-                      size={24}
+                      size={30}
                     />
                   </TouchableOpacity>,
                 ],
@@ -513,7 +517,6 @@ ShallowWrapper {
                   },
                   Object {
                     "marginBottom": 0,
-                    "paddingBottom": 10,
                   },
                 ],
               },
@@ -532,8 +535,9 @@ ShallowWrapper {
                       Object {
                         "color": "#3F3D4B",
                         "flex": 1,
-                        "fontFamily": "NunitoSans-Bold",
+                        "fontFamily": "Montserrat",
                         "fontSize": 24,
+                        "fontWeight": "bold",
                       },
                       Object {
                         "textAlign": "left",
@@ -553,7 +557,7 @@ ShallowWrapper {
                     "children": <Icon
                       color="rgba(155,155,155,1)"
                       name="close"
-                      size={24}
+                      size={30}
                     />,
                     "onPress": [Function],
                     "style": Object {
@@ -574,7 +578,7 @@ ShallowWrapper {
                     "props": Object {
                       "color": "rgba(155,155,155,1)",
                       "name": "close",
-                      "size": 24,
+                      "size": 30,
                     },
                     "ref": null,
                     "rendered": null,
@@ -585,7 +589,6 @@ ShallowWrapper {
               ],
               "type": [Function],
             },
-            null,
             null,
             null,
             null,
@@ -606,7 +609,7 @@ ShallowWrapper {
                     }
                   }
                 >
-                   CREATE NEW ACCOUNT 
+                   Create New Account 
                 </Text>,
                 "disabled": false,
                 "onPress": [Function],
@@ -614,7 +617,8 @@ ShallowWrapper {
                   "marginBottom": 30,
                   "marginLeft": 16,
                   "marginRight": 16,
-                  "marginTop": 0,
+                  "marginTop": 30,
+                  "padding": 20,
                 },
               },
               "ref": null,
@@ -625,18 +629,19 @@ ShallowWrapper {
                 "props": Object {
                   "accessible": true,
                   "allowFontScaling": true,
-                  "children": " CREATE NEW ACCOUNT ",
+                  "children": " Create New Account ",
                   "ellipsizeMode": "tail",
                   "style": Object {
                     "fontSize": 14,
                   },
                 },
                 "ref": null,
-                "rendered": " CREATE NEW ACCOUNT ",
+                "rendered": " Create New Account ",
                 "type": [Function],
               },
               "type": [Function],
             },
+            null,
             null,
           ],
           "type": [Function],
@@ -702,7 +707,6 @@ ShallowWrapper {
                     },
                     Object {
                       "marginBottom": 0,
-                      "paddingBottom": 10,
                     },
                   ]
                 }
@@ -716,8 +720,9 @@ ShallowWrapper {
                       Object {
                         "color": "#3F3D4B",
                         "flex": 1,
-                        "fontFamily": "NunitoSans-Bold",
+                        "fontFamily": "Montserrat",
                         "fontSize": 24,
+                        "fontWeight": "bold",
                       },
                       Object {
                         "textAlign": "left",
@@ -745,7 +750,7 @@ ShallowWrapper {
                   <Icon
                     color="rgba(155,155,155,1)"
                     name="close"
-                    size={24}
+                    size={30}
                   />
                 </TouchableOpacity>
               </Component>
@@ -757,7 +762,8 @@ ShallowWrapper {
                     "marginBottom": 30,
                     "marginLeft": 16,
                     "marginRight": 16,
-                    "marginTop": 0,
+                    "marginTop": 30,
+                    "padding": 20,
                   }
                 }
               >
@@ -771,7 +777,7 @@ ShallowWrapper {
                     }
                   }
                 >
-                   CREATE NEW ACCOUNT 
+                   Create New Account 
                 </Text>
               </PrimaryButton>
             </Component>
@@ -874,7 +880,6 @@ ShallowWrapper {
                     },
                     Object {
                       "marginBottom": 0,
-                      "paddingBottom": 10,
                     },
                   ]
                 }
@@ -888,8 +893,9 @@ ShallowWrapper {
                       Object {
                         "color": "#3F3D4B",
                         "flex": 1,
-                        "fontFamily": "NunitoSans-Bold",
+                        "fontFamily": "Montserrat",
                         "fontSize": 24,
+                        "fontWeight": "bold",
                       },
                       Object {
                         "textAlign": "left",
@@ -917,7 +923,7 @@ ShallowWrapper {
                   <Icon
                     color="rgba(155,155,155,1)"
                     name="close"
-                    size={24}
+                    size={30}
                   />
                 </TouchableOpacity>
               </Component>
@@ -929,7 +935,8 @@ ShallowWrapper {
                     "marginBottom": 30,
                     "marginLeft": 16,
                     "marginRight": 16,
-                    "marginTop": 0,
+                    "marginTop": 30,
+                    "padding": 20,
                   }
                 }
               >
@@ -943,7 +950,7 @@ ShallowWrapper {
                     }
                   }
                 >
-                   CREATE NEW ACCOUNT 
+                   Create New Account 
                 </Text>
               </PrimaryButton>
             </Component>,
@@ -968,7 +975,6 @@ ShallowWrapper {
                       },
                       Object {
                         "marginBottom": 0,
-                        "paddingBottom": 10,
                       },
                     ]
                   }
@@ -982,8 +988,9 @@ ShallowWrapper {
                         Object {
                           "color": "#3F3D4B",
                           "flex": 1,
-                          "fontFamily": "NunitoSans-Bold",
+                          "fontFamily": "Montserrat",
                           "fontSize": 24,
+                          "fontWeight": "bold",
                         },
                         Object {
                           "textAlign": "left",
@@ -1011,11 +1018,10 @@ ShallowWrapper {
                     <Icon
                       color="rgba(155,155,155,1)"
                       name="close"
-                      size={24}
+                      size={30}
                     />
                   </TouchableOpacity>
                 </Component>,
-                null,
                 null,
                 null,
                 null,
@@ -1029,7 +1035,8 @@ ShallowWrapper {
                       "marginBottom": 30,
                       "marginLeft": 16,
                       "marginRight": 16,
-                      "marginTop": 0,
+                      "marginTop": 30,
+                      "padding": 20,
                     }
                   }
                 >
@@ -1043,9 +1050,10 @@ ShallowWrapper {
                       }
                     }
                   >
-                     CREATE NEW ACCOUNT 
+                     Create New Account 
                   </Text>
                 </PrimaryButton>,
+                null,
                 null,
               ],
               "style": Object {
@@ -1071,8 +1079,9 @@ ShallowWrapper {
                           Object {
                             "color": "#3F3D4B",
                             "flex": 1,
-                            "fontFamily": "NunitoSans-Bold",
+                            "fontFamily": "Montserrat",
                             "fontSize": 24,
+                            "fontWeight": "bold",
                           },
                           Object {
                             "textAlign": "left",
@@ -1100,7 +1109,7 @@ ShallowWrapper {
                       <Icon
                         color="rgba(155,155,155,1)"
                         name="close"
-                        size={24}
+                        size={30}
                       />
                     </TouchableOpacity>,
                   ],
@@ -1115,7 +1124,6 @@ ShallowWrapper {
                     },
                     Object {
                       "marginBottom": 0,
-                      "paddingBottom": 10,
                     },
                   ],
                 },
@@ -1134,8 +1142,9 @@ ShallowWrapper {
                         Object {
                           "color": "#3F3D4B",
                           "flex": 1,
-                          "fontFamily": "NunitoSans-Bold",
+                          "fontFamily": "Montserrat",
                           "fontSize": 24,
+                          "fontWeight": "bold",
                         },
                         Object {
                           "textAlign": "left",
@@ -1155,7 +1164,7 @@ ShallowWrapper {
                       "children": <Icon
                         color="rgba(155,155,155,1)"
                         name="close"
-                        size={24}
+                        size={30}
                       />,
                       "onPress": [Function],
                       "style": Object {
@@ -1176,7 +1185,7 @@ ShallowWrapper {
                       "props": Object {
                         "color": "rgba(155,155,155,1)",
                         "name": "close",
-                        "size": 24,
+                        "size": 30,
                       },
                       "ref": null,
                       "rendered": null,
@@ -1187,7 +1196,6 @@ ShallowWrapper {
                 ],
                 "type": [Function],
               },
-              null,
               null,
               null,
               null,
@@ -1208,7 +1216,7 @@ ShallowWrapper {
                       }
                     }
                   >
-                     CREATE NEW ACCOUNT 
+                     Create New Account 
                   </Text>,
                   "disabled": false,
                   "onPress": [Function],
@@ -1216,7 +1224,8 @@ ShallowWrapper {
                     "marginBottom": 30,
                     "marginLeft": 16,
                     "marginRight": 16,
-                    "marginTop": 0,
+                    "marginTop": 30,
+                    "padding": 20,
                   },
                 },
                 "ref": null,
@@ -1227,18 +1236,19 @@ ShallowWrapper {
                   "props": Object {
                     "accessible": true,
                     "allowFontScaling": true,
-                    "children": " CREATE NEW ACCOUNT ",
+                    "children": " Create New Account ",
                     "ellipsizeMode": "tail",
                     "style": Object {
                       "fontSize": 14,
                     },
                   },
                   "ref": null,
-                  "rendered": " CREATE NEW ACCOUNT ",
+                  "rendered": " Create New Account ",
                   "type": [Function],
                 },
                 "type": [Function],
               },
+              null,
               null,
             ],
             "type": [Function],
@@ -1314,7 +1324,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request 1`] = `
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -1335,7 +1345,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request 1`] = `
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -1373,7 +1383,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request 1`] = `
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -1387,8 +1396,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request 1`] = `
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -1433,7 +1443,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request 1`] = `
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -1487,7 +1497,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and cli
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -1508,7 +1518,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and cli
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -1546,7 +1556,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request and cli
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -1560,8 +1569,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request and cli
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -1606,7 +1616,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and cli
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -1660,7 +1670,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and ver
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -1681,7 +1691,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and ver
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -1719,7 +1729,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request and ver
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -1733,8 +1742,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request and ver
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -1779,7 +1789,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request and ver
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -1833,7 +1843,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -1854,7 +1864,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -1892,7 +1902,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -1906,8 +1915,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -1952,7 +1962,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2006,7 +2016,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2027,7 +2037,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2065,7 +2075,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2079,8 +2088,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -2125,7 +2135,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2179,7 +2189,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2200,7 +2210,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2238,7 +2248,6 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2252,8 +2261,9 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -2298,7 +2308,7 @@ exports[`DisclosureCard renders correctly with a full disclosure request with pu
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2352,7 +2362,7 @@ exports[`DisclosureCard renders correctly with a segregated account request and 
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2373,7 +2383,7 @@ exports[`DisclosureCard renders correctly with a segregated account request and 
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2411,7 +2421,6 @@ exports[`DisclosureCard renders correctly with a segregated account request and 
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2425,8 +2434,9 @@ exports[`DisclosureCard renders correctly with a segregated account request and 
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -2471,7 +2481,7 @@ exports[`DisclosureCard renders correctly with a segregated account request and 
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2525,7 +2535,7 @@ exports[`DisclosureCard renders correctly with a simple request and client info 
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2546,7 +2556,7 @@ exports[`DisclosureCard renders correctly with a simple request and client info 
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2584,7 +2594,6 @@ exports[`DisclosureCard renders correctly with a simple request and client info 
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2598,8 +2607,9 @@ exports[`DisclosureCard renders correctly with a simple request and client info 
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -2644,7 +2654,7 @@ exports[`DisclosureCard renders correctly with a simple request and client info 
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2698,7 +2708,7 @@ exports[`DisclosureCard renders correctly with error 1`] = `
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2719,7 +2729,7 @@ exports[`DisclosureCard renders correctly with error 1`] = `
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2757,7 +2767,6 @@ exports[`DisclosureCard renders correctly with error 1`] = `
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2771,8 +2780,9 @@ exports[`DisclosureCard renders correctly with error 1`] = `
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -2817,7 +2827,7 @@ exports[`DisclosureCard renders correctly with error 1`] = `
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -2829,7 +2839,6 @@ exports[`DisclosureCard renders correctly with error 1`] = `
           Array [
             Object {
               "color": "rgba(155,155,155,1)",
-              "fontFamily": "NunitoSans-Light",
               "fontSize": 14,
               "lineHeight": 19,
               "textAlign": "center",
@@ -2892,7 +2901,7 @@ exports[`DisclosureCard unpublished identity renders correctly after publishing 
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -2913,7 +2922,7 @@ exports[`DisclosureCard unpublished identity renders correctly after publishing 
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -2951,7 +2960,6 @@ exports[`DisclosureCard unpublished identity renders correctly after publishing 
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -2965,8 +2973,9 @@ exports[`DisclosureCard unpublished identity renders correctly after publishing 
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -3011,7 +3020,7 @@ exports[`DisclosureCard unpublished identity renders correctly after publishing 
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -3065,7 +3074,7 @@ exports[`DisclosureCard unpublished identity renders correctly with identity not
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -3086,7 +3095,7 @@ exports[`DisclosureCard unpublished identity renders correctly with identity not
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -3124,7 +3133,6 @@ exports[`DisclosureCard unpublished identity renders correctly with identity not
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -3138,8 +3146,9 @@ exports[`DisclosureCard unpublished identity renders correctly with identity not
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -3184,7 +3193,7 @@ exports[`DisclosureCard unpublished identity renders correctly with identity not
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -3238,7 +3247,7 @@ exports[`DisclosureCard with network with no existing account for network render
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -3259,7 +3268,7 @@ exports[`DisclosureCard with network with no existing account for network render
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -3297,7 +3306,6 @@ exports[`DisclosureCard with network with no existing account for network render
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -3311,8 +3319,9 @@ exports[`DisclosureCard with network with no existing account for network render
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -3357,7 +3366,7 @@ exports[`DisclosureCard with network with no existing account for network render
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -3411,7 +3420,7 @@ exports[`DisclosureCard with network with no existing segregated account for cli
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -3432,7 +3441,7 @@ exports[`DisclosureCard with network with no existing segregated account for cli
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -3470,7 +3479,6 @@ exports[`DisclosureCard with network with no existing segregated account for cli
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -3484,8 +3492,9 @@ exports[`DisclosureCard with network with no existing segregated account for cli
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -3530,7 +3539,7 @@ exports[`DisclosureCard with network with no existing segregated account for cli
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>
@@ -3584,7 +3593,7 @@ exports[`DisclosureCard with network with pre-existing account renders correctly
             Array [
               Object {
                 "color": "rgba(138,155,161,1.0)",
-                "fontFamily": "NunitoSans-Regular",
+                "fontFamily": undefined,
                 "fontSize": 13,
               },
               Object {
@@ -3605,7 +3614,7 @@ exports[`DisclosureCard with network with pre-existing account renders correctly
               Array [
                 Object {
                   "color": "rgba(138,155,161,1.0)",
-                  "fontFamily": "NunitoSans-Regular",
+                  "fontFamily": undefined,
                   "fontSize": 13,
                 },
                 Object {
@@ -3643,7 +3652,6 @@ exports[`DisclosureCard with network with pre-existing account renders correctly
             },
             Object {
               "marginBottom": 0,
-              "paddingBottom": 10,
             },
           ]
         }
@@ -3657,8 +3665,9 @@ exports[`DisclosureCard with network with pre-existing account renders correctly
               Object {
                 "color": "#3F3D4B",
                 "flex": 1,
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 24,
+                "fontWeight": "bold",
               },
               Object {
                 "textAlign": "left",
@@ -3703,7 +3712,7 @@ exports[`DisclosureCard with network with pre-existing account renders correctly
           <Icon
             color="rgba(155,155,155,1)"
             name="close"
-            size={24}
+            size={30}
           />
         </View>
       </View>

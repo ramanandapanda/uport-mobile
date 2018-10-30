@@ -19,10 +19,10 @@ exports[`VerificationCard renders VerificationCard 1`] = `
     <View
       style={
         Object {
-          "alignItems": "stretch",
-          "flex": 0,
-          "flexDirection": "row",
-          "justifyContent": "space-between",
+          "color": "rgba(74,74,74,1)",
+          "fontFamily": undefined,
+          "fontSize": 14,
+          "lineHeight": 19,
         }
       }
     >
@@ -272,10 +272,17 @@ exports[`VerificationCard renders VerificationCard with no issuer 1`] = `
     <View
       style={
         Object {
+<<<<<<< HEAD
           "alignItems": "stretch",
           "flex": 0,
           "flexDirection": "row",
           "justifyContent": "space-between",
+=======
+          "color": "rgba(74,74,74,1)",
+          "fontFamily": undefined,
+          "fontSize": 14,
+          "lineHeight": 19,
+>>>>>>> Setup modernUI start
         }
       }
     >
@@ -525,10 +532,17 @@ exports[`VerificationCard renders VerificationCard without logo 1`] = `
     <View
       style={
         Object {
+<<<<<<< HEAD
           "alignItems": "stretch",
           "flex": 0,
           "flexDirection": "row",
           "justifyContent": "space-between",
+=======
+          "color": "rgba(74,74,74,1)",
+          "fontFamily": undefined,
+          "fontSize": 14,
+          "lineHeight": 19,
+>>>>>>> Setup modernUI start
         }
       }
     >
@@ -816,10 +830,17 @@ ShallowWrapper {
           <Component
             style={
               Object {
+<<<<<<< HEAD
                 "alignItems": "stretch",
                 "flex": 0,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
+=======
+                "color": "rgba(74,74,74,1)",
+                "fontFamily": undefined,
+                "fontSize": 14,
+                "lineHeight": 19,
+>>>>>>> Setup modernUI start
               }
             }
           >
@@ -893,10 +914,17 @@ ShallowWrapper {
             <Component
               style={
                 Object {
+<<<<<<< HEAD
                   "alignItems": "stretch",
                   "flex": 0,
                   "flexDirection": "row",
                   "justifyContent": "space-between",
+=======
+                  "color": "rgba(74,74,74,1)",
+                  "fontFamily": undefined,
+                  "fontSize": 14,
+                  "lineHeight": 19,
+>>>>>>> Setup modernUI start
                 }
               }
             >
@@ -978,10 +1006,17 @@ ShallowWrapper {
                 />,
               ],
               "style": Object {
+<<<<<<< HEAD
                 "alignItems": "stretch",
                 "flex": 0,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
+=======
+                "color": "rgba(74,74,74,1)",
+                "fontFamily": undefined,
+                "fontSize": 14,
+                "lineHeight": 19,
+>>>>>>> Setup modernUI start
               },
             },
             "ref": null,
@@ -1120,10 +1155,17 @@ ShallowWrapper {
             <Component
               style={
                 Object {
+<<<<<<< HEAD
                   "alignItems": "stretch",
                   "flex": 0,
                   "flexDirection": "row",
                   "justifyContent": "space-between",
+=======
+                  "color": "rgba(74,74,74,1)",
+                  "fontFamily": undefined,
+                  "fontSize": 14,
+                  "lineHeight": 19,
+>>>>>>> Setup modernUI start
                 }
               }
             >
@@ -1197,10 +1239,17 @@ ShallowWrapper {
               <Component
                 style={
                   Object {
+<<<<<<< HEAD
                     "alignItems": "stretch",
                     "flex": 0,
                     "flexDirection": "row",
                     "justifyContent": "space-between",
+=======
+                    "color": "rgba(74,74,74,1)",
+                    "fontFamily": undefined,
+                    "fontSize": 14,
+                    "lineHeight": 19,
+>>>>>>> Setup modernUI start
                   }
                 }
               >
@@ -1282,10 +1331,17 @@ ShallowWrapper {
                   />,
                 ],
                 "style": Object {
+<<<<<<< HEAD
                   "alignItems": "stretch",
                   "flex": 0,
                   "flexDirection": "row",
                   "justifyContent": "space-between",
+=======
+                  "color": "rgba(74,74,74,1)",
+                  "fontFamily": undefined,
+                  "fontSize": 14,
+                  "lineHeight": 19,
+>>>>>>> Setup modernUI start
                 },
               },
               "ref": null,
@@ -1446,10 +1502,17 @@ exports[`VerificationCard renders complex VerificationCard 1`] = `
     <View
       style={
         Object {
+<<<<<<< HEAD
           "alignItems": "stretch",
           "flex": 0,
           "flexDirection": "row",
           "justifyContent": "space-between",
+=======
+          "color": "rgba(74,74,74,1)",
+          "fontFamily": undefined,
+          "fontSize": 14,
+          "lineHeight": 19,
+>>>>>>> Setup modernUI start
         }
       }
     >

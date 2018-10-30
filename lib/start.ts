@@ -22,20 +22,23 @@ import { Provider } from 'react-redux'
 import store from './store/store'
 import { registerScreens } from './screens'
 import { Platform, NativeModules } from 'react-native'
+import FeatherIcons from 'react-native-vector-icons/Feather'
 
 import { handleURL } from './actions/requestActions'
 import { registerDeviceForNotifications } from 'uPortMobile/lib/actions/snsRegistrationActions'
 import { track, screen } from 'uPortMobile/lib/actions/metricActions'
 
-registerScreens(store, Provider)
-
-// This method doesn't do much. I just want to ensure that this library is not optimized away
-export async function start() {
-  // console.log('starting uport')
+export function start() {
+  registerScreens(store, Provider)
 }
 
 // Actual initialization is done by startupSaga during initialization of `store`.
 // When DB is ready it calls one of these.
+export function startMain() {
+  startAppModernUI()
+  // startLegacyApp()
+}
+
 export const screenVisibilityListener = new RNNScreenVisibilityListener({
   didAppear: async (event: any) => {
     store.dispatch(screen(event.screen, event))
@@ -43,7 +46,60 @@ export const screenVisibilityListener = new RNNScreenVisibilityListener({
 })
 
 // Add GUI startup tasks here for already onboarded user
-export async function startMain(this: any) {
+export async function startAppModernUI(this: any) {
+  Platform.OS === 'android' ? store.dispatch(registerDeviceForNotifications()) : null
+
+  const accountsIcon = await FeatherIcons.getImageSource('shield', 26)
+  const verifiedIcon = await FeatherIcons.getImageSource('check-circle', 26)
+  const contactsIcon = await FeatherIcons.getImageSource('users', 26)
+  const settingsIcon = await FeatherIcons.getImageSource('settings', 26)
+  const notificationsIcon = await FeatherIcons.getImageSource('bell', 26)
+
+  Navigation.startTabBasedApp({
+    tabs: [
+      {
+        screen: 'screen.Accounts', // this is a registered name for a screen
+        title: 'Accounts',
+        icon: accountsIcon,
+      },
+      {
+        screen: 'screen.Contacts',
+        title: 'Contacts',
+        icon: contactsIcon,
+      },
+      {
+        screen: 'screen.Notifications',
+        title: 'Notifications',
+        icon: notificationsIcon,
+      },
+      {
+        screen: 'screen.Settings',
+        title: 'Settings',
+        icon: settingsIcon,
+      },
+    ],
+    tabsStyle: {
+        tabBarBackgroundColor: 'rgba(255,255,255,0.4)',
+        tabBarSelectedButtonColor: 'rgba(92,80,202,1)',
+    },
+    drawer: {
+      right: {
+        screen: 'uport.scanner',
+      },
+      style: {
+        rightDrawerWidth: 100,
+        drawerShadow: false,
+      },
+    },
+    animationType: 'none',
+  })
+
+  screenVisibilityListener.register()
+  requestQueue((url: string) => store.dispatch(handleURL(url)))
+}
+
+// Add GUI startup tasks here for already onboarded user
+export async function startLegacyApp(this: any) {
   Platform.OS === 'android' ? store.dispatch(registerDeviceForNotifications()) : null
   Navigation.startSingleScreenApp({
     screen: {
@@ -51,7 +107,7 @@ export async function startMain(this: any) {
       // override the navigator style for the screen, see "Styling the navigator" below (optional)
       // navigatorButtons: {} // override the nav buttons for the screen, see "Adding buttons to the navigator" below (optional)
       navigatorStyle: {
-        navBarTextFontFamily: 'Nunito Sans',
+        navBarTextFontFamily: 'Montserrat',
         navBarHidden: true,
       }, // override the navigator style for the screen, see "Styling the navigator" below (optional)
     },
@@ -79,9 +135,9 @@ export async function startOnboarding() {
       title: 'Uport', // title of the screen as appears in the nav bar (optional)
       navigatorStyle: {
         navBarHidden: true,
-        navBarTextFontFamily: 'Nunito Sans',
+        navBarTextFontFamily: 'Montserrat',
       }, // override the navigator style for the screen, see "Styling the navigator" below (optional)
     },
-    animationType: 'slide-down', // optional, add transition animation to root change: 'none', 'slide-down', 'fade'
+    animationType: 'fade', // optional, add transition animation to root change: 'none', 'slide-down', 'fade'
   })
 }
