@@ -27,6 +27,9 @@ import FeatherIcons from 'react-native-vector-icons/Feather'
 import { handleURL } from './actions/requestActions'
 import { registerDeviceForNotifications } from 'uPortMobile/lib/actions/snsRegistrationActions'
 import { track, screen } from 'uPortMobile/lib/actions/metricActions'
+import { colors } from 'uPortMobile/lib/styles/globalStyles'
+
+const isIOS = Platform.OS === 'ios' ? true : false;
 
 export function start() {
   registerScreens(store, Provider)
@@ -47,15 +50,34 @@ export const screenVisibilityListener = new RNNScreenVisibilityListener({
 
 // Add GUI startup tasks here for already onboarded user
 export async function startAppModernUI(this: any) {
-  Platform.OS === 'android' ? store.dispatch(registerDeviceForNotifications()) : null
+  isIOS ? null : store.dispatch(registerDeviceForNotifications())
 
   const accountsIcon = await FeatherIcons.getImageSource('shield', 26)
-  const verifiedIcon = await FeatherIcons.getImageSource('check-circle', 26)
   const contactsIcon = await FeatherIcons.getImageSource('users', 26)
   const settingsIcon = await FeatherIcons.getImageSource('settings', 26)
   const notificationsIcon = await FeatherIcons.getImageSource('bell', 26)
-
-  Navigation.startTabBasedApp({
+  const AndroidOptions = {
+  }
+  const IOSOptions = {
+    tabsStyle: {
+      tabBarBackgroundColor: 'rgba(255,255,255,0.4)',
+      tabBarSelectedButtonColor: 'rgba(92,80,202,1)',
+    },
+    drawer: {
+      right: {
+        screen: 'uport.scanner',
+      },
+      style: {
+        rightDrawerWidth: 100,
+        drawerShadow: false,
+      },
+    },
+  }
+  const commonPlatformOptions = {
+    tabsStyle: {
+      tabBarBackgroundColor: colors.brand,
+      tabBarSelectedButtonColor: colors.white216,
+    },
     tabs: [
       {
         screen: 'screen.Accounts', // this is a registered name for a screen
@@ -78,20 +100,57 @@ export async function startAppModernUI(this: any) {
         icon: settingsIcon,
       },
     ],
-    tabsStyle: {
-        tabBarBackgroundColor: 'rgba(255,255,255,0.4)',
-        tabBarSelectedButtonColor: 'rgba(92,80,202,1)',
-    },
-    drawer: {
-      right: {
-        screen: 'uport.scanner',
-      },
-      style: {
-        rightDrawerWidth: 100,
-        drawerShadow: false,
-      },
-    },
     animationType: 'none',
+  }
+
+  // Navigation.startTabBasedApp({
+  //   tabs: commonPlatformOptions.tabs,
+  //   tabsStyle: IOSOptions.tabsStyle,
+  //   drawer: isIOS ? IOSOptions.drawer : undefined,
+  //   animationType: 'none',
+  // })
+
+  /**
+   * The typings are out of date so we need to cast them as any for now
+   *
+   */
+  const StartSingleScreenApp: any = Navigation.startSingleScreenApp
+
+  StartSingleScreenApp({
+    appStyle: {
+      selectedTopTabIndicatorHeight: 3,
+      selectedTopTabTextColor: '#FFFFFF',
+      selectedTopTabIndicatorColor: '#FFFFFF',
+      topTabsScrollable: false ,
+      topTabIconColor: 'rgba(255,255,255,0.5)',
+      selectedTopTabIconColor: '#FFFFFF',
+    },
+    screen: {
+      screen: 'screen.BlankScreen',
+      title: 'uPort',
+      topTabs: [
+        {
+          title: 'Accounts',
+          screenId: 'screen.Accounts',
+          icon: accountsIcon,
+        },
+        {
+          title: 'Contacts',
+          screenId: 'screen.Contacts',
+          icon: contactsIcon,
+        },
+        {
+          title: 'Notify',
+          screenId: 'screen.Notifications',
+          icon: notificationsIcon,
+        },
+        {
+          title: 'Settings',
+          screenId: 'screen.Settings',
+          icon: settingsIcon,
+        },
+      ],
+    },
   })
 
   screenVisibilityListener.register()
