@@ -15,8 +15,17 @@
   },
   "jest": {
     "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "android.js",
+      "ios.js"
+    ],
     "setupFiles": [
       "./jest-setup/react-native.js",
+      "./jest-setup/analytics.js",
       "./jest-setup/authorize.js",
       "./jest-setup/ethjs.js",
       "./jest-setup/react-native-fetch-blob.js",
@@ -33,10 +42,11 @@
     ],
     "transform": {
       "^.+\\.(js)$": "<rootDir>/node_modules/babel-jest",
-      "\\.(ts|tsx)$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+      "^.+\\.(ts|tsx)$": "ts-jest"
     },
     "collectCoverageFrom": [
-      "lib/**/*.js"
+      "lib/**/*.js",
+      "lib/**/*.ts"
     ],
     "coveragePathIgnorePatterns": [
       "/node_modules/",
@@ -44,8 +54,16 @@
       "lib/browserified/",
       "-test"
     ],
+    "testMatch": [
+      "**/__tests__/*.+(ts|tsx|js|jsx)"
+    ],
     "moduleNameMapper": {
       "uPortMobile(.*)$": "<rootDir>$1"
+    },
+    "globals": {
+      "ts-jest": {
+        "tsConfigFile": "tsconfig.json"
+      }
     },
     "testEnvironment": "node",
     "coverageDirectory": "./coverage/",
