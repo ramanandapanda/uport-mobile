@@ -119,8 +119,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
     }
   >
     <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
       accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
       isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
       onResponderGrant={[Function]}
       onResponderMove={[Function]}
       onResponderRelease={[Function]}
@@ -128,6 +135,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
       onResponderTerminationRequest={[Function]}
       onStartShouldSetResponder={[Function]}
       style={null}
+      testID={undefined}
+      tvParallaxProperties={undefined}
     >
       <Icon
         color="rgba(155,155,155,1)"
@@ -1154,6 +1163,7 @@ exports[`Country Selector Modal renders with country selected 1`] = `
       getItemCount={[Function]}
       horizontal={false}
       initialNumToRender={10}
+      invertStickyHeaders={undefined}
       keyExtractor={[Function]}
       maxToRenderPerBatch={10}
       numColumns={1}
@@ -1177,8 +1187,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1190,6 +1207,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1227,8 +1246,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1240,6 +1266,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1277,8 +1305,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1290,6 +1325,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1336,8 +1373,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1349,6 +1393,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1386,8 +1432,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1399,6 +1452,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1436,8 +1491,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1449,6 +1511,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1486,8 +1550,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1499,6 +1570,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1536,8 +1609,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1549,6 +1629,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1586,8 +1668,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1599,6 +1688,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1636,8 +1727,15 @@ exports[`Country Selector Modal renders with country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1649,6 +1747,8 @@ exports[`Country Selector Modal renders with country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1721,8 +1821,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
     }
   >
     <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
       accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
       isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
       onResponderGrant={[Function]}
       onResponderMove={[Function]}
       onResponderRelease={[Function]}
@@ -1730,6 +1837,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
       onResponderTerminationRequest={[Function]}
       onStartShouldSetResponder={[Function]}
       style={null}
+      testID={undefined}
+      tvParallaxProperties={undefined}
     >
       <Icon
         color="rgba(155,155,155,1)"
@@ -2756,6 +2865,7 @@ exports[`Country Selector Modal renders without country selected 1`] = `
       getItemCount={[Function]}
       horizontal={false}
       initialNumToRender={10}
+      invertStickyHeaders={undefined}
       keyExtractor={[Function]}
       maxToRenderPerBatch={10}
       numColumns={1}
@@ -2779,8 +2889,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2792,6 +2909,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -2829,8 +2948,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2842,6 +2968,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -2879,8 +3007,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2892,6 +3027,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -2929,8 +3066,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2942,6 +3086,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -2979,8 +3125,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2992,6 +3145,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -3029,8 +3184,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3042,6 +3204,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -3079,8 +3243,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3092,6 +3263,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -3129,8 +3302,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3142,6 +3322,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -3179,8 +3361,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3192,6 +3381,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -3229,8 +3420,15 @@ exports[`Country Selector Modal renders without country selected 1`] = `
           style={null}
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3242,6 +3440,8 @@ exports[`Country Selector Modal renders without country selected 1`] = `
                 "alignSelf": "stretch",
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <View
               style={

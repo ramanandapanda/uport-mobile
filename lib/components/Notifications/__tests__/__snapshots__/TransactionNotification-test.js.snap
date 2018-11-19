@@ -2,8 +2,16 @@
 
 exports[`Transaction Notification renders an send ether notification correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -28,6 +36,8 @@ exports[`Transaction Notification renders an send ether notification correctly 1
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -89,9 +99,9 @@ exports[`Transaction Notification renders an send ether notification correctly 1
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -102,18 +112,18 @@ exports[`Transaction Notification renders an send ether notification correctly 1
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -125,7 +135,7 @@ exports[`Transaction Notification renders an send ether notification correctly 1
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -149,9 +159,9 @@ exports[`Transaction Notification renders an send ether notification correctly 1
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -162,18 +172,18 @@ exports[`Transaction Notification renders an send ether notification correctly 1
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -231,8 +241,15 @@ exports[`Transaction Notification renders an send ether notification correctly 1
       }
     >
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -260,6 +277,8 @@ exports[`Transaction Notification renders an send ether notification correctly 1
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -268,7 +287,7 @@ exports[`Transaction Notification renders an send ether notification correctly 1
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -283,8 +302,15 @@ exports[`Transaction Notification renders an send ether notification correctly 1
         </Text>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -310,6 +336,8 @@ exports[`Transaction Notification renders an send ether notification correctly 1
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -318,7 +346,7 @@ exports[`Transaction Notification renders an send ether notification correctly 1
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -339,8 +367,16 @@ exports[`Transaction Notification renders an send ether notification correctly 1
 
 exports[`Transaction Notification renders an transaction notification correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -365,6 +401,8 @@ exports[`Transaction Notification renders an transaction notification correctly 
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -426,9 +464,9 @@ exports[`Transaction Notification renders an transaction notification correctly 
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -439,18 +477,18 @@ exports[`Transaction Notification renders an transaction notification correctly 
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -462,7 +500,7 @@ exports[`Transaction Notification renders an transaction notification correctly 
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -486,9 +524,9 @@ exports[`Transaction Notification renders an transaction notification correctly 
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -499,18 +537,18 @@ exports[`Transaction Notification renders an transaction notification correctly 
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -568,8 +606,15 @@ exports[`Transaction Notification renders an transaction notification correctly 
       }
     >
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -597,6 +642,8 @@ exports[`Transaction Notification renders an transaction notification correctly 
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -605,7 +652,7 @@ exports[`Transaction Notification renders an transaction notification correctly 
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -620,8 +667,15 @@ exports[`Transaction Notification renders an transaction notification correctly 
         </Text>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -647,6 +701,8 @@ exports[`Transaction Notification renders an transaction notification correctly 
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -655,7 +711,7 @@ exports[`Transaction Notification renders an transaction notification correctly 
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -676,8 +732,16 @@ exports[`Transaction Notification renders an transaction notification correctly 
 
 exports[`Transaction Notification renders an transaction notification that has been authorized correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -702,6 +766,8 @@ exports[`Transaction Notification renders an transaction notification that has b
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -763,9 +829,9 @@ exports[`Transaction Notification renders an transaction notification that has b
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -776,18 +842,18 @@ exports[`Transaction Notification renders an transaction notification that has b
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -799,7 +865,7 @@ exports[`Transaction Notification renders an transaction notification that has b
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -823,9 +889,9 @@ exports[`Transaction Notification renders an transaction notification that has b
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -836,18 +902,18 @@ exports[`Transaction Notification renders an transaction notification that has b
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -901,8 +967,16 @@ exports[`Transaction Notification renders an transaction notification that has b
 
 exports[`Transaction Notification renders an transaction notification that has been canceled correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -927,6 +1001,8 @@ exports[`Transaction Notification renders an transaction notification that has b
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -988,9 +1064,9 @@ exports[`Transaction Notification renders an transaction notification that has b
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -1001,18 +1077,18 @@ exports[`Transaction Notification renders an transaction notification that has b
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -1024,7 +1100,7 @@ exports[`Transaction Notification renders an transaction notification that has b
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -1048,9 +1124,9 @@ exports[`Transaction Notification renders an transaction notification that has b
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -1061,18 +1137,18 @@ exports[`Transaction Notification renders an transaction notification that has b
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -1126,8 +1202,16 @@ exports[`Transaction Notification renders an transaction notification that has b
 
 exports[`Transaction Notification renders an txhash notification correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -1152,6 +1236,8 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -1213,9 +1299,9 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -1226,18 +1312,18 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -1249,7 +1335,7 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -1273,9 +1359,9 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -1286,18 +1372,18 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -1355,8 +1441,15 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
       }
     >
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -1384,6 +1477,8 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -1392,7 +1487,7 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -1407,8 +1502,15 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
         </Text>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -1434,6 +1536,8 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -1442,7 +1546,7 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -1463,8 +1567,16 @@ exports[`Transaction Notification renders an txhash notification correctly 1`] =
 
 exports[`Transaction Notification renders an update uport transaction notification correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -1489,6 +1601,8 @@ exports[`Transaction Notification renders an update uport transaction notificati
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -1550,9 +1664,9 @@ exports[`Transaction Notification renders an update uport transaction notificati
               },
               Object {
                 "backgroundColor": "white",
-                "borderRadius": 3,
-                "height": 70,
-                "width": 70,
+                "borderRadius": 50,
+                "height": 60,
+                "width": 60,
               },
             ]
           }
@@ -1563,18 +1677,18 @@ exports[`Transaction Notification renders an update uport transaction notificati
             style={
               Array [
                 Object {
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 30,
+                  "height": 60,
+                  "width": 60,
                 },
                 Object {
                   "position": "absolute",
                 },
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   undefined,
                 ],
@@ -1586,7 +1700,7 @@ exports[`Transaction Notification renders an update uport transaction notificati
       <Image
         source={
           Object {
-            "testUri": "../../../images/ForwardArrow.png",
+            "testUri": "../../../assets/images/ForwardArrow.png",
           }
         }
         style={
@@ -1610,9 +1724,9 @@ exports[`Transaction Notification renders an update uport transaction notificati
                 },
                 Object {
                   "backgroundColor": "white",
-                  "borderRadius": 3,
-                  "height": 70,
-                  "width": 70,
+                  "borderRadius": 50,
+                  "height": 60,
+                  "width": 60,
                 },
               ]
             }
@@ -1623,18 +1737,18 @@ exports[`Transaction Notification renders an update uport transaction notificati
               style={
                 Array [
                   Object {
-                    "borderRadius": 3,
-                    "height": 70,
-                    "width": 70,
+                    "borderRadius": 30,
+                    "height": 60,
+                    "width": 60,
                   },
                   Object {
                     "position": "absolute",
                   },
                   Array [
                     Object {
-                      "borderRadius": 3,
-                      "height": 70,
-                      "width": 70,
+                      "borderRadius": 30,
+                      "height": 60,
+                      "width": 60,
                     },
                     undefined,
                   ],
@@ -1692,8 +1806,15 @@ exports[`Transaction Notification renders an update uport transaction notificati
       }
     >
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -1721,6 +1842,8 @@ exports[`Transaction Notification renders an update uport transaction notificati
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -1729,7 +1852,7 @@ exports[`Transaction Notification renders an update uport transaction notificati
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -1744,8 +1867,15 @@ exports[`Transaction Notification renders an update uport transaction notificati
         </Text>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -1771,6 +1901,8 @@ exports[`Transaction Notification renders an update uport transaction notificati
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -1779,7 +1911,7 @@ exports[`Transaction Notification renders an update uport transaction notificati
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },

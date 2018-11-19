@@ -19,6 +19,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
         Object {},
       ]
     }
+    refreshControl={undefined}
     style={
       Array [
         Object {
@@ -33,19 +34,24 @@ exports[`More account backup with hd wallet with completed backup renders backup
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -59,7 +65,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -115,19 +121,24 @@ exports[`More account backup with hd wallet with completed backup renders backup
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -141,7 +152,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -197,19 +208,24 @@ exports[`More account backup with hd wallet with completed backup renders backup
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -223,7 +239,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -279,19 +295,24 @@ exports[`More account backup with hd wallet with completed backup renders backup
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -305,7 +326,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -361,19 +382,24 @@ exports[`More account backup with hd wallet with completed backup renders backup
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -387,10 +413,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {
-                "borderBottomColor": "rgba(216,216,216,1)",
-                "borderBottomWidth": 1,
-              },
+              undefined,
             ]
           }
         >
@@ -469,6 +492,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
         Object {},
       ]
     }
+    refreshControl={undefined}
     style={
       Array [
         Object {
@@ -483,19 +507,24 @@ exports[`More account backup with hd wallet with no completed backup renders wit
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -509,7 +538,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -565,19 +594,24 @@ exports[`More account backup with hd wallet with no completed backup renders wit
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -591,7 +625,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -647,19 +681,24 @@ exports[`More account backup with hd wallet with no completed backup renders wit
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -673,7 +712,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -733,19 +772,24 @@ exports[`More account backup with hd wallet with no completed backup renders wit
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -759,7 +803,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -815,19 +859,24 @@ exports[`More account backup with hd wallet with no completed backup renders wit
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -841,10 +890,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {
-                "borderBottomColor": "rgba(216,216,216,1)",
-                "borderBottomWidth": 1,
-              },
+              undefined,
             ]
           }
         >
@@ -923,6 +969,7 @@ exports[`More account backup without hd wallet renders without backup option 1`]
         Object {},
       ]
     }
+    refreshControl={undefined}
     style={
       Array [
         Object {
@@ -937,19 +984,24 @@ exports[`More account backup without hd wallet renders without backup option 1`]
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -963,7 +1015,7 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -1019,19 +1071,24 @@ exports[`More account backup without hd wallet renders without backup option 1`]
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1045,7 +1102,7 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -1101,19 +1158,24 @@ exports[`More account backup without hd wallet renders without backup option 1`]
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1127,10 +1189,7 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {
-                "borderBottomColor": "rgba(216,216,216,1)",
-                "borderBottomWidth": 1,
-              },
+              undefined,
             ]
           }
         >
@@ -1539,6 +1598,7 @@ exports[`More renders more screen with 0 contacts 1`] = `
         Object {},
       ]
     }
+    refreshControl={undefined}
     style={
       Array [
         Object {
@@ -1553,19 +1613,24 @@ exports[`More renders more screen with 0 contacts 1`] = `
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1579,7 +1644,7 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -1635,19 +1700,24 @@ exports[`More renders more screen with 0 contacts 1`] = `
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1661,7 +1731,7 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -1717,19 +1787,24 @@ exports[`More renders more screen with 0 contacts 1`] = `
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1743,10 +1818,7 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {
-                "borderBottomColor": "rgba(216,216,216,1)",
-                "borderBottomWidth": 1,
-              },
+              undefined,
             ]
           }
         >
@@ -1825,6 +1897,7 @@ exports[`More renders more screen with 2 contacts 1`] = `
         Object {},
       ]
     }
+    refreshControl={undefined}
     style={
       Array [
         Object {
@@ -1839,19 +1912,24 @@ exports[`More renders more screen with 2 contacts 1`] = `
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1865,7 +1943,7 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -1921,19 +1999,24 @@ exports[`More renders more screen with 2 contacts 1`] = `
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -1947,7 +2030,7 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {},
+              undefined,
             ]
           }
         >
@@ -2003,19 +2086,24 @@ exports[`More renders more screen with 2 contacts 1`] = `
         </View>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
         onResponderTerminate={[Function]}
         onResponderTerminationRequest={[Function]}
         onStartShouldSetResponder={[Function]}
-        style={
-          Object {
-            "opacity": 1,
-          }
-        }
+        style={null}
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -2029,10 +2117,7 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 "justifyContent": "space-between",
                 "padding": 19,
               },
-              Object {
-                "borderBottomColor": "rgba(216,216,216,1)",
-                "borderBottomWidth": 1,
-              },
+              undefined,
             ]
           }
         >

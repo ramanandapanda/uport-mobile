@@ -90,6 +90,7 @@ exports[`CardStateBox renders error correctly 1`] = `
     }
   >
     <Icon
+      color={undefined}
       name="ios-alert"
       style={
         Object {

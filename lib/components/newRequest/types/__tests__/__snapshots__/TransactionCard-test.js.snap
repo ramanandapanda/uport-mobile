@@ -82,8 +82,16 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -99,6 +107,8 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -122,7 +132,7 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -184,7 +194,7 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -195,13 +205,13 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -210,7 +220,7 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -281,8 +291,16 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -295,6 +313,8 @@ exports[`TransactionCard renders correctly with abi with args and a no value 1`]
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -362,8 +382,15 @@ there
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -394,6 +421,8 @@ there
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -402,7 +431,7 @@ there
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -511,8 +540,16 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -528,6 +565,8 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -551,7 +590,7 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -613,7 +652,7 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -624,13 +663,13 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -639,7 +678,7 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -710,8 +749,16 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -724,6 +771,8 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -785,8 +834,15 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -817,6 +873,8 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -825,7 +883,7 @@ exports[`TransactionCard renders correctly with abi without args and value 1`] =
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -934,8 +992,16 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -951,6 +1017,8 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -974,7 +1042,7 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -1035,7 +1103,7 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
                     "justifyContent": "center",
                   },
                   Object {
-                    "borderRadius": 3,
+                    "borderRadius": 48.75,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -1056,7 +1124,7 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
                   Array [
                     Object {
                       "fontFamily": "NunitoSans-Regular",
-                      "fontSize": 17.5,
+                      "fontSize": 15,
                       "textAlign": "center",
                     },
                     Object {
@@ -1133,8 +1201,16 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1147,6 +1223,8 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -1163,8 +1241,15 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1195,6 +1280,8 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -1203,7 +1290,7 @@ exports[`TransactionCard renders correctly with both client and destination 1`] 
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -1312,8 +1399,16 @@ exports[`TransactionCard renders correctly with destination being invalid destin
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1329,6 +1424,8 @@ exports[`TransactionCard renders correctly with destination being invalid destin
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -1352,7 +1449,7 @@ exports[`TransactionCard renders correctly with destination being invalid destin
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -1413,7 +1510,7 @@ exports[`TransactionCard renders correctly with destination being invalid destin
                     "justifyContent": "center",
                   },
                   Object {
-                    "borderRadius": 3,
+                    "borderRadius": 48.75,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -1434,7 +1531,7 @@ exports[`TransactionCard renders correctly with destination being invalid destin
                   Array [
                     Object {
                       "fontFamily": "NunitoSans-Regular",
-                      "fontSize": 17.5,
+                      "fontSize": 15,
                       "textAlign": "center",
                     },
                     Object {
@@ -1511,8 +1608,16 @@ exports[`TransactionCard renders correctly with destination being invalid destin
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1525,6 +1630,8 @@ exports[`TransactionCard renders correctly with destination being invalid destin
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -1625,6 +1732,7 @@ exports[`TransactionCard renders correctly with destination being invalid destin
             }
           >
             <Icon
+              color={undefined}
               name="ios-alert"
               style={
                 Object {
@@ -1725,8 +1833,16 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1742,6 +1858,8 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -1765,7 +1883,7 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -1826,7 +1944,7 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
                     "justifyContent": "center",
                   },
                   Object {
-                    "borderRadius": 3,
+                    "borderRadius": 48.75,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -1847,7 +1965,7 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
                   Array [
                     Object {
                       "fontFamily": "NunitoSans-Regular",
-                      "fontSize": 17.5,
+                      "fontSize": 15,
                       "textAlign": "center",
                     },
                     Object {
@@ -1924,8 +2042,16 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1938,6 +2064,8 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -1954,8 +2082,15 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1986,6 +2121,8 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -1994,7 +2131,7 @@ exports[`TransactionCard renders correctly with destination being validated 1`] 
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -2103,8 +2240,16 @@ exports[`TransactionCard renders correctly with only request 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2120,6 +2265,8 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -2143,7 +2290,7 @@ exports[`TransactionCard renders correctly with only request 1`] = `
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -2205,7 +2352,7 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -2216,13 +2363,13 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -2231,7 +2378,7 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -2302,8 +2449,16 @@ exports[`TransactionCard renders correctly with only request 1`] = `
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2316,6 +2471,8 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -2332,8 +2489,15 @@ exports[`TransactionCard renders correctly with only request 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2364,6 +2528,8 @@ exports[`TransactionCard renders correctly with only request 1`] = `
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -2372,7 +2538,7 @@ exports[`TransactionCard renders correctly with only request 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -2481,8 +2647,16 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2498,6 +2672,8 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -2521,7 +2697,7 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -2583,7 +2759,7 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -2594,13 +2770,13 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -2609,7 +2785,7 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -2680,8 +2856,16 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2694,6 +2878,8 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -2757,8 +2943,15 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2789,6 +2982,8 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -2797,7 +2992,7 @@ exports[`TransactionCard renders correctly with publicUportTransaction 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -2906,8 +3101,16 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2923,6 +3126,8 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -2946,7 +3151,7 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -3008,7 +3213,7 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -3019,13 +3224,13 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -3034,7 +3239,7 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -3105,8 +3310,16 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3119,6 +3332,8 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -3135,8 +3350,15 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3167,6 +3389,8 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -3175,7 +3399,7 @@ exports[`TransactionCard renders correctly with request and a 0 value 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -3284,8 +3508,16 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3301,6 +3533,8 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -3324,7 +3558,7 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -3386,7 +3620,7 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -3397,13 +3631,13 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -3412,7 +3646,7 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -3483,8 +3717,16 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3497,6 +3739,8 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -3513,8 +3757,15 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3545,6 +3796,8 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -3553,7 +3806,7 @@ exports[`TransactionCard renders correctly with request and a value 1`] = `
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },
@@ -3662,8 +3915,16 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3679,6 +3940,8 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                 "paddingTop": 14,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -3702,7 +3965,7 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
           style={
             Object {
               "color": "rgba(74,74,74,1)",
-              "fontFamily": "NunitoSans-Bold",
+              "fontFamily": "Montserrat",
               "fontSize": 20,
               "lineHeight": 26,
               "marginLeft": 23,
@@ -3764,7 +4027,7 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                   },
                   Object {
                     "backgroundColor": "white",
-                    "borderRadius": 3,
+                    "borderRadius": 50,
                     "height": 97.5,
                     "width": 97.5,
                   },
@@ -3775,13 +4038,13 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                 resizeMode="cover"
                 source={
                   Object {
-                    "testUri": "../../../images/eth-symbol2.png",
+                    "testUri": "../../../assets/images/eth-symbol2.png",
                   }
                 }
                 style={
                   Array [
                     Object {
-                      "borderRadius": 3,
+                      "borderRadius": 48.75,
                       "height": 97.5,
                       "width": 97.5,
                     },
@@ -3790,7 +4053,7 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                     },
                     Array [
                       Object {
-                        "borderRadius": 3,
+                        "borderRadius": 48.75,
                         "height": 97.5,
                         "width": 97.5,
                       },
@@ -3861,8 +4124,16 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
              DETAILS 
           </Text>
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            collapsable={undefined}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3875,6 +4146,8 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                 "padding": 3,
               }
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Icon
               color="rgba(92,80,202,1)"
@@ -3891,8 +4164,15 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
           }
         >
           <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
             isTVSelectable={true}
+            nativeID={undefined}
+            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -3923,6 +4203,8 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
                 ],
               ]
             }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
             <Text
               accessible={true}
@@ -3931,7 +4213,7 @@ exports[`TransactionCard renders correctly with request and a value with insuffi
               style={
                 Array [
                   Object {
-                    "fontFamily": "NunitoSans-Bold",
+                    "fontFamily": "Montserrat",
                     "fontSize": 18,
                     "textAlign": "center",
                   },

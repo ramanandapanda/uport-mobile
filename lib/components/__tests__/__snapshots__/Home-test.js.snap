@@ -29,7 +29,7 @@ exports[`Home Component home screen rendering with activities 1`] = `
             },
             Object {
               "backgroundColor": "white",
-              "borderRadius": 3,
+              "borderRadius": 50,
               "height": 96,
               "width": 96,
             },
@@ -40,13 +40,13 @@ exports[`Home Component home screen rendering with activities 1`] = `
           resizeMode="cover"
           source={
             Object {
-              "testUri": "../../../images/default_profile_image.png",
+              "testUri": "../../../assets/images/default_profile_image.png",
             }
           }
           style={
             Array [
               Object {
-                "borderRadius": 3,
+                "borderRadius": 48,
                 "height": 96,
                 "width": 96,
               },
@@ -55,7 +55,7 @@ exports[`Home Component home screen rendering with activities 1`] = `
               },
               Array [
                 Object {
-                  "borderRadius": 3,
+                  "borderRadius": 48,
                   "height": 96,
                   "width": 96,
                 },
@@ -103,8 +103,16 @@ exports[`Home Component home screen rendering with activities 1`] = `
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -116,6 +124,8 @@ exports[`Home Component home screen rendering with activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -181,8 +191,16 @@ exports[`Home Component home screen rendering with activities 1`] = `
     </View>
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -194,6 +212,8 @@ exports[`Home Component home screen rendering with activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -259,8 +279,16 @@ exports[`Home Component home screen rendering with activities 1`] = `
     </View>
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -272,6 +300,8 @@ exports[`Home Component home screen rendering with activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -337,8 +367,16 @@ exports[`Home Component home screen rendering with activities 1`] = `
     </View>
   </View>
   <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
     accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
     isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
     onResponderGrant={[Function]}
     onResponderMove={[Function]}
     onResponderRelease={[Function]}
@@ -365,6 +403,8 @@ exports[`Home Component home screen rendering with activities 1`] = `
         "width": 56,
       }
     }
+    testID={undefined}
+    tvParallaxProperties={undefined}
   >
     <Icon
       color="rgba(216,216,216,1)"
@@ -404,7 +444,7 @@ exports[`Home Component home screen rendering without activities 1`] = `
             },
             Object {
               "backgroundColor": "white",
-              "borderRadius": 3,
+              "borderRadius": 50,
               "height": 96,
               "width": 96,
             },
@@ -421,7 +461,7 @@ exports[`Home Component home screen rendering without activities 1`] = `
           style={
             Array [
               Object {
-                "borderRadius": 3,
+                "borderRadius": 48,
                 "height": 96,
                 "width": 96,
               },
@@ -430,7 +470,7 @@ exports[`Home Component home screen rendering without activities 1`] = `
               },
               Array [
                 Object {
-                  "borderRadius": 3,
+                  "borderRadius": 48,
                   "height": 96,
                   "width": 96,
                 },
@@ -478,8 +518,16 @@ exports[`Home Component home screen rendering without activities 1`] = `
   >
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -491,6 +539,8 @@ exports[`Home Component home screen rendering without activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -556,8 +606,16 @@ exports[`Home Component home screen rendering without activities 1`] = `
     </View>
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -569,6 +627,8 @@ exports[`Home Component home screen rendering without activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -634,8 +694,16 @@ exports[`Home Component home screen rendering without activities 1`] = `
     </View>
     <View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -647,6 +715,8 @@ exports[`Home Component home screen rendering without activities 1`] = `
             "opacity": 1,
           }
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <View
           style={
@@ -712,8 +782,16 @@ exports[`Home Component home screen rendering without activities 1`] = `
     </View>
   </View>
   <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
     accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
     isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
     onResponderGrant={[Function]}
     onResponderMove={[Function]}
     onResponderRelease={[Function]}
@@ -740,6 +818,8 @@ exports[`Home Component home screen rendering without activities 1`] = `
         "width": 56,
       }
     }
+    testID={undefined}
+    tvParallaxProperties={undefined}
   >
     <Icon
       color="rgba(216,216,216,1)"

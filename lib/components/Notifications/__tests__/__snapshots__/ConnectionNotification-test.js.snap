@@ -2,8 +2,16 @@
 
 exports[`Connection Notification renders an connection notification correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -28,6 +36,8 @@ exports[`Connection Notification renders an connection notification correctly 1`
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -79,7 +89,7 @@ exports[`Connection Notification renders an connection notification correctly 1`
               "justifyContent": "center",
             },
             Object {
-              "borderRadius": 3,
+              "borderRadius": 36,
               "height": 72,
               "width": 72,
             },
@@ -100,7 +110,7 @@ exports[`Connection Notification renders an connection notification correctly 1`
             Array [
               Object {
                 "fontFamily": "NunitoSans-Regular",
-                "fontSize": 17.5,
+                "fontSize": 15,
                 "textAlign": "center",
               },
               undefined,
@@ -167,8 +177,15 @@ exports[`Connection Notification renders an connection notification correctly 1`
       }
     >
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -196,6 +213,8 @@ exports[`Connection Notification renders an connection notification correctly 1`
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -204,7 +223,7 @@ exports[`Connection Notification renders an connection notification correctly 1`
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -219,8 +238,15 @@ exports[`Connection Notification renders an connection notification correctly 1`
         </Text>
       </View>
       <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
         accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
         isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -246,6 +272,8 @@ exports[`Connection Notification renders an connection notification correctly 1`
             ],
           ]
         }
+        testID={undefined}
+        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -254,7 +282,7 @@ exports[`Connection Notification renders an connection notification correctly 1`
           style={
             Array [
               Object {
-                "fontFamily": "NunitoSans-Bold",
+                "fontFamily": "Montserrat",
                 "fontSize": 18,
                 "textAlign": "center",
               },
@@ -275,8 +303,16 @@ exports[`Connection Notification renders an connection notification correctly 1`
 
 exports[`Connection Notification renders an connection notification that has been authorized correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -301,6 +337,8 @@ exports[`Connection Notification renders an connection notification that has bee
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -352,7 +390,7 @@ exports[`Connection Notification renders an connection notification that has bee
               "justifyContent": "center",
             },
             Object {
-              "borderRadius": 3,
+              "borderRadius": 36,
               "height": 72,
               "width": 72,
             },
@@ -373,7 +411,7 @@ exports[`Connection Notification renders an connection notification that has bee
             Array [
               Object {
                 "fontFamily": "NunitoSans-Regular",
-                "fontSize": 17.5,
+                "fontSize": 15,
                 "textAlign": "center",
               },
               undefined,
@@ -436,8 +474,16 @@ exports[`Connection Notification renders an connection notification that has bee
 
 exports[`Connection Notification renders an connection notification that has been canceled correctly 1`] = `
 <View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
   accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
   isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -462,6 +508,8 @@ exports[`Connection Notification renders an connection notification that has bee
       "shadowRadius": 12,
     }
   }
+  testID={undefined}
+  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -513,7 +561,7 @@ exports[`Connection Notification renders an connection notification that has bee
               "justifyContent": "center",
             },
             Object {
-              "borderRadius": 3,
+              "borderRadius": 36,
               "height": 72,
               "width": 72,
             },
@@ -534,7 +582,7 @@ exports[`Connection Notification renders an connection notification that has bee
             Array [
               Object {
                 "fontFamily": "NunitoSans-Regular",
-                "fontSize": 17.5,
+                "fontSize": 15,
                 "textAlign": "center",
               },
               undefined,

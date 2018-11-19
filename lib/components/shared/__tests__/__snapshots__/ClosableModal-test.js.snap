@@ -27,8 +27,15 @@ exports[`ClosableModal renders with title 1`] = `
     }
   >
     <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
       accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
       isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
       onResponderGrant={[Function]}
       onResponderMove={[Function]}
       onResponderRelease={[Function]}
@@ -36,6 +43,8 @@ exports[`ClosableModal renders with title 1`] = `
       onResponderTerminationRequest={[Function]}
       onStartShouldSetResponder={[Function]}
       style={null}
+      testID={undefined}
+      tvParallaxProperties={undefined}
     >
       <Icon
         color="rgba(155,155,155,1)"
@@ -97,8 +106,15 @@ exports[`ClosableModal renders without title 1`] = `
     }
   >
     <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
       accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
       isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
       onResponderGrant={[Function]}
       onResponderMove={[Function]}
       onResponderRelease={[Function]}
@@ -106,6 +122,8 @@ exports[`ClosableModal renders without title 1`] = `
       onResponderTerminationRequest={[Function]}
       onStartShouldSetResponder={[Function]}
       style={null}
+      testID={undefined}
+      tvParallaxProperties={undefined}
     >
       <Icon
         color="rgba(155,155,155,1)"

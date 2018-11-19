@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`renders Id Verification Icon Icon 1`] = `
-<View>
+<View
+  style={undefined}
+>
   <Svg
     height={163}
     viewBox="0 0 130 163"

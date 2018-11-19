@@ -90,7 +90,9 @@ ShallowWrapper {
                 }
               />
             </Text>
-            <ExpirationItem />
+            <ExpirationItem
+              d={undefined}
+            />
           </Component>
         </Component>,
         <Component
@@ -101,7 +103,7 @@ ShallowWrapper {
             }
           }
         >
-          <ConectedComponent
+          <NestedInfo
             data={
               Object {
                 "loading": "loading",
@@ -168,7 +170,9 @@ ShallowWrapper {
                   }
                 />
               </Text>
-              <ExpirationItem />
+              <ExpirationItem
+                d={undefined}
+              />
             </Component>,
             false,
           ],
@@ -210,7 +214,9 @@ ShallowWrapper {
                     }
                   />
                 </Text>,
-                <ExpirationItem />,
+                <ExpirationItem
+                  d={undefined}
+                />,
               ],
               "style": Object {
                 "alignItems": "stretch",
@@ -295,7 +301,7 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "class",
         "props": Object {
-          "children": <ConectedComponent
+          "children": <NestedInfo
             data={
               Object {
                 "loading": "loading",
@@ -398,7 +404,9 @@ ShallowWrapper {
                   }
                 />
               </Text>
-              <ExpirationItem />
+              <ExpirationItem
+                d={undefined}
+              />
             </Component>
           </Component>,
           <Component
@@ -409,7 +417,7 @@ ShallowWrapper {
               }
             }
           >
-            <ConectedComponent
+            <NestedInfo
               data={
                 Object {
                   "loading": "loading",
@@ -476,7 +484,9 @@ ShallowWrapper {
                     }
                   />
                 </Text>
-                <ExpirationItem />
+                <ExpirationItem
+                  d={undefined}
+                />
               </Component>,
               false,
             ],
@@ -518,7 +528,9 @@ ShallowWrapper {
                       }
                     />
                   </Text>,
-                  <ExpirationItem />,
+                  <ExpirationItem
+                    d={undefined}
+                  />,
                 ],
                 "style": Object {
                   "alignItems": "stretch",
@@ -603,7 +615,7 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "children": <ConectedComponent
+            "children": <NestedInfo
               data={
                 Object {
                   "loading": "loading",

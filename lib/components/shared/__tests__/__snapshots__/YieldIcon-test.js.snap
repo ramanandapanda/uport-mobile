@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`renders Yield Icon 1`] = `
-<View>
+<View
+  style={undefined}
+>
   <Svg
     height={90}
     viewBox="0 0 90 82"
