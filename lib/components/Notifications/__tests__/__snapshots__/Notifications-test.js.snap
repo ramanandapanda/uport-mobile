@@ -699,7 +699,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
     getItemCount={[Function]}
     horizontal={false}
     initialNumToRender={10}
-    invertStickyHeaders={undefined}
     keyExtractor={[Function]}
     maxToRenderPerBatch={10}
     onContentSizeChange={[Function]}
@@ -722,16 +721,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -756,8 +747,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -963,15 +952,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 }
               >
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -999,8 +981,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1024,15 +1004,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                   </Text>
                 </View>
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1058,8 +1031,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1093,16 +1064,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1127,8 +1090,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1246,15 +1207,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 }
               >
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1282,8 +1236,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1307,15 +1259,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                   </Text>
                 </View>
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1341,8 +1286,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1376,16 +1319,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1410,8 +1345,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1463,15 +1396,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 }
               >
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1499,8 +1425,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1524,15 +1448,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                   </Text>
                 </View>
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1558,8 +1475,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1593,16 +1508,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1627,8 +1534,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1766,15 +1671,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 }
               >
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1802,8 +1700,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1827,15 +1723,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                   </Text>
                 </View>
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -1861,8 +1750,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -1896,16 +1783,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -1930,8 +1809,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -1983,16 +1860,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
       >
         <View>
           <View
-            accessibilityComponentType={undefined}
-            accessibilityLabel={undefined}
-            accessibilityTraits={undefined}
             accessible={true}
-            collapsable={undefined}
-            hasTVPreferredFocus={undefined}
-            hitSlop={undefined}
             isTVSelectable={true}
-            nativeID={undefined}
-            onLayout={undefined}
             onResponderGrant={[Function]}
             onResponderMove={[Function]}
             onResponderRelease={[Function]}
@@ -2017,8 +1886,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 "shadowRadius": 12,
               }
             }
-            testID={undefined}
-            tvParallaxProperties={undefined}
           >
             <View
               style={
@@ -2070,15 +1937,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                 }
               >
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -2106,8 +1966,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -2131,15 +1989,8 @@ exports[`Notifications renders correctly with notifications 1`] = `
                   </Text>
                 </View>
                 <View
-                  accessibilityComponentType={undefined}
-                  accessibilityLabel={undefined}
-                  accessibilityTraits={undefined}
                   accessible={true}
-                  hasTVPreferredFocus={undefined}
-                  hitSlop={undefined}
                   isTVSelectable={true}
-                  nativeID={undefined}
-                  onLayout={undefined}
                   onResponderGrant={[Function]}
                   onResponderMove={[Function]}
                   onResponderRelease={[Function]}
@@ -2165,8 +2016,6 @@ exports[`Notifications renders correctly with notifications 1`] = `
                       ],
                     ]
                   }
-                  testID={undefined}
-                  tvParallaxProperties={undefined}
                 >
                   <Text
                     accessible={true}
@@ -2272,7 +2121,6 @@ exports[`Notifications renders correctly without notifications 1`] = `
     getItemCount={[Function]}
     horizontal={false}
     initialNumToRender={10}
-    invertStickyHeaders={undefined}
     keyExtractor={[Function]}
     maxToRenderPerBatch={10}
     onContentSizeChange={[Function]}

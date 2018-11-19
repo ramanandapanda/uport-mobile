@@ -2,16 +2,8 @@
 
 exports[`Attestation Notifications renders an attestation notification correctly 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  collapsable={undefined}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -36,8 +28,6 @@ exports[`Attestation Notifications renders an attestation notification correctly
       "shadowRadius": 12,
     }
   }
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -155,15 +145,8 @@ exports[`Attestation Notifications renders an attestation notification correctly
       }
     >
       <View
-        accessibilityComponentType={undefined}
-        accessibilityLabel={undefined}
-        accessibilityTraits={undefined}
         accessible={true}
-        hasTVPreferredFocus={undefined}
-        hitSlop={undefined}
         isTVSelectable={true}
-        nativeID={undefined}
-        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -191,8 +174,6 @@ exports[`Attestation Notifications renders an attestation notification correctly
             ],
           ]
         }
-        testID={undefined}
-        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -216,15 +197,8 @@ exports[`Attestation Notifications renders an attestation notification correctly
         </Text>
       </View>
       <View
-        accessibilityComponentType={undefined}
-        accessibilityLabel={undefined}
-        accessibilityTraits={undefined}
         accessible={true}
-        hasTVPreferredFocus={undefined}
-        hitSlop={undefined}
         isTVSelectable={true}
-        nativeID={undefined}
-        onLayout={undefined}
         onResponderGrant={[Function]}
         onResponderMove={[Function]}
         onResponderRelease={[Function]}
@@ -250,8 +224,6 @@ exports[`Attestation Notifications renders an attestation notification correctly
             ],
           ]
         }
-        testID={undefined}
-        tvParallaxProperties={undefined}
       >
         <Text
           accessible={true}
@@ -281,16 +253,8 @@ exports[`Attestation Notifications renders an attestation notification correctly
 
 exports[`Attestation Notifications renders an attestation notification that has been authorized correctly 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  collapsable={undefined}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -315,8 +279,6 @@ exports[`Attestation Notifications renders an attestation notification that has 
       "shadowRadius": 12,
     }
   }
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -430,16 +392,8 @@ exports[`Attestation Notifications renders an attestation notification that has 
 
 exports[`Attestation Notifications renders an attestation notification that has been canceled correctly 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  collapsable={undefined}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -464,8 +418,6 @@ exports[`Attestation Notifications renders an attestation notification that has 
       "shadowRadius": 12,
     }
   }
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={

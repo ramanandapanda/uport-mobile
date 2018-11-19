@@ -38,15 +38,8 @@ exports[`renders MenuItem with title 1`] = `
 
 exports[`renders MenuItem with title and internal link 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -54,8 +47,6 @@ exports[`renders MenuItem with title and internal link 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -126,15 +117,8 @@ exports[`renders MenuItem with title and internal link 1`] = `
 
 exports[`renders MenuItem with title and link 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -142,8 +126,6 @@ exports[`renders MenuItem with title and link 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -214,15 +196,8 @@ exports[`renders MenuItem with title and link 1`] = `
 
 exports[`renders MenuItem with title and onPress 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -230,8 +205,6 @@ exports[`renders MenuItem with title and onPress 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -345,15 +318,8 @@ exports[`renders MenuItem with title and value 1`] = `
 
 exports[`renders MenuItem with title, value and internal link 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -361,8 +327,6 @@ exports[`renders MenuItem with title, value and internal link 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -435,15 +399,8 @@ exports[`renders MenuItem with title, value and internal link 1`] = `
 
 exports[`renders MenuItem with title, value and link 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -451,8 +408,6 @@ exports[`renders MenuItem with title, value and link 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
@@ -525,15 +480,8 @@ exports[`renders MenuItem with title, value and link 1`] = `
 
 exports[`renders MenuItem with title, value and onPress 1`] = `
 <View
-  accessibilityComponentType={undefined}
-  accessibilityLabel={undefined}
-  accessibilityTraits={undefined}
   accessible={true}
-  hasTVPreferredFocus={undefined}
-  hitSlop={undefined}
   isTVSelectable={true}
-  nativeID={undefined}
-  onLayout={undefined}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
   onResponderRelease={[Function]}
@@ -541,8 +489,6 @@ exports[`renders MenuItem with title, value and onPress 1`] = `
   onResponderTerminationRequest={[Function]}
   onStartShouldSetResponder={[Function]}
   style={null}
-  testID={undefined}
-  tvParallaxProperties={undefined}
 >
   <View
     style={
