@@ -24,7 +24,7 @@ exports[`More account backup with hd wallet with completed backup renders backup
       Array [
         Object {
           "borderBottomColor": "rgba(216,216,216,1)",
-          "borderBottomWidth": 1,
+          "borderBottomWidth": 0.5,
         },
         Object {
           "flex": 1,
@@ -59,11 +59,11 @@ exports[`More account backup with hd wallet with completed backup renders backup
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -75,9 +75,8 @@ exports[`More account backup with hd wallet with completed backup renders backup
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -99,7 +98,6 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -146,11 +144,11 @@ exports[`More account backup with hd wallet with completed backup renders backup
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -162,9 +160,8 @@ exports[`More account backup with hd wallet with completed backup renders backup
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -186,7 +183,6 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -233,11 +229,11 @@ exports[`More account backup with hd wallet with completed backup renders backup
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -249,9 +245,8 @@ exports[`More account backup with hd wallet with completed backup renders backup
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -273,7 +268,6 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -320,11 +314,11 @@ exports[`More account backup with hd wallet with completed backup renders backup
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -336,9 +330,8 @@ exports[`More account backup with hd wallet with completed backup renders backup
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -360,7 +353,6 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -407,11 +399,11 @@ exports[`More account backup with hd wallet with completed backup renders backup
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -423,9 +415,8 @@ exports[`More account backup with hd wallet with completed backup renders backup
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -447,7 +438,6 @@ exports[`More account backup with hd wallet with completed backup renders backup
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -497,7 +487,7 @@ exports[`More account backup with hd wallet with no completed backup renders wit
       Array [
         Object {
           "borderBottomColor": "rgba(216,216,216,1)",
-          "borderBottomWidth": 1,
+          "borderBottomWidth": 0.5,
         },
         Object {
           "flex": 1,
@@ -532,11 +522,11 @@ exports[`More account backup with hd wallet with no completed backup renders wit
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -548,9 +538,8 @@ exports[`More account backup with hd wallet with no completed backup renders wit
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -572,7 +561,6 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -619,11 +607,11 @@ exports[`More account backup with hd wallet with no completed backup renders wit
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -635,9 +623,8 @@ exports[`More account backup with hd wallet with no completed backup renders wit
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -659,7 +646,6 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -706,11 +692,11 @@ exports[`More account backup with hd wallet with no completed backup renders wit
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -722,9 +708,8 @@ exports[`More account backup with hd wallet with no completed backup renders wit
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -746,7 +731,6 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -797,11 +781,11 @@ exports[`More account backup with hd wallet with no completed backup renders wit
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -813,9 +797,8 @@ exports[`More account backup with hd wallet with no completed backup renders wit
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -837,7 +820,6 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -884,11 +866,11 @@ exports[`More account backup with hd wallet with no completed backup renders wit
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -900,9 +882,8 @@ exports[`More account backup with hd wallet with no completed backup renders wit
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -924,7 +905,6 @@ exports[`More account backup with hd wallet with no completed backup renders wit
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -974,7 +954,7 @@ exports[`More account backup without hd wallet renders without backup option 1`]
       Array [
         Object {
           "borderBottomColor": "rgba(216,216,216,1)",
-          "borderBottomWidth": 1,
+          "borderBottomWidth": 0.5,
         },
         Object {
           "flex": 1,
@@ -1009,11 +989,11 @@ exports[`More account backup without hd wallet renders without backup option 1`]
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1025,9 +1005,8 @@ exports[`More account backup without hd wallet renders without backup option 1`]
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1049,7 +1028,6 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1096,11 +1074,11 @@ exports[`More account backup without hd wallet renders without backup option 1`]
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1112,9 +1090,8 @@ exports[`More account backup without hd wallet renders without backup option 1`]
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1136,7 +1113,6 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1183,11 +1159,11 @@ exports[`More account backup without hd wallet renders without backup option 1`]
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1199,9 +1175,8 @@ exports[`More account backup without hd wallet renders without backup option 1`]
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1223,7 +1198,6 @@ exports[`More account backup without hd wallet renders without backup option 1`]
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1263,7 +1237,7 @@ ShallowWrapper {
         "styles": Object {
           "navBarBackgroundColor": "rgba(246,247,248,1)",
           "navBarButtonColor": "rgba(92,80,202,1)",
-          "navBarFontFamily": "NunitoSans-Regular",
+          "navBarFontFamily": undefined,
           "navBarFontSize": 18,
           "navBarNoBorder": true,
           "navBarTextColor": "rgba(74,74,74,1)",
@@ -1293,7 +1267,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1310,7 +1284,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1330,7 +1304,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1354,7 +1328,7 @@ ShallowWrapper {
             "styles": Object {
               "navBarBackgroundColor": "rgba(246,247,248,1)",
               "navBarButtonColor": "rgba(92,80,202,1)",
-              "navBarFontFamily": "NunitoSans-Regular",
+              "navBarFontFamily": undefined,
               "navBarFontSize": 18,
               "navBarNoBorder": true,
               "navBarTextColor": "rgba(74,74,74,1)",
@@ -1377,7 +1351,7 @@ ShallowWrapper {
             "styles": Object {
               "navBarBackgroundColor": "rgba(246,247,248,1)",
               "navBarButtonColor": "rgba(92,80,202,1)",
-              "navBarFontFamily": "NunitoSans-Regular",
+              "navBarFontFamily": undefined,
               "navBarFontSize": 18,
               "navBarNoBorder": true,
               "navBarTextColor": "rgba(74,74,74,1)",
@@ -1403,7 +1377,7 @@ ShallowWrapper {
             "styles": Object {
               "navBarBackgroundColor": "rgba(246,247,248,1)",
               "navBarButtonColor": "rgba(92,80,202,1)",
-              "navBarFontFamily": "NunitoSans-Regular",
+              "navBarFontFamily": undefined,
               "navBarFontSize": 18,
               "navBarNoBorder": true,
               "navBarTextColor": "rgba(74,74,74,1)",
@@ -1433,7 +1407,7 @@ ShallowWrapper {
                 "styles": Object {
                   "navBarBackgroundColor": "rgba(246,247,248,1)",
                   "navBarButtonColor": "rgba(92,80,202,1)",
-                  "navBarFontFamily": "NunitoSans-Regular",
+                  "navBarFontFamily": undefined,
                   "navBarFontSize": 18,
                   "navBarNoBorder": true,
                   "navBarTextColor": "rgba(74,74,74,1)",
@@ -1450,7 +1424,7 @@ ShallowWrapper {
                 "styles": Object {
                   "navBarBackgroundColor": "rgba(246,247,248,1)",
                   "navBarButtonColor": "rgba(92,80,202,1)",
-                  "navBarFontFamily": "NunitoSans-Regular",
+                  "navBarFontFamily": undefined,
                   "navBarFontSize": 18,
                   "navBarNoBorder": true,
                   "navBarTextColor": "rgba(74,74,74,1)",
@@ -1470,7 +1444,7 @@ ShallowWrapper {
                 "styles": Object {
                   "navBarBackgroundColor": "rgba(246,247,248,1)",
                   "navBarButtonColor": "rgba(92,80,202,1)",
-                  "navBarFontFamily": "NunitoSans-Regular",
+                  "navBarFontFamily": undefined,
                   "navBarFontSize": 18,
                   "navBarNoBorder": true,
                   "navBarTextColor": "rgba(74,74,74,1)",
@@ -1494,7 +1468,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1517,7 +1491,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1543,7 +1517,7 @@ ShallowWrapper {
               "styles": Object {
                 "navBarBackgroundColor": "rgba(246,247,248,1)",
                 "navBarButtonColor": "rgba(92,80,202,1)",
-                "navBarFontFamily": "NunitoSans-Regular",
+                "navBarFontFamily": undefined,
                 "navBarFontSize": 18,
                 "navBarNoBorder": true,
                 "navBarTextColor": "rgba(74,74,74,1)",
@@ -1603,7 +1577,7 @@ exports[`More renders more screen with 0 contacts 1`] = `
       Array [
         Object {
           "borderBottomColor": "rgba(216,216,216,1)",
-          "borderBottomWidth": 1,
+          "borderBottomWidth": 0.5,
         },
         Object {
           "flex": 1,
@@ -1638,11 +1612,11 @@ exports[`More renders more screen with 0 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1654,9 +1628,8 @@ exports[`More renders more screen with 0 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1678,7 +1651,6 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1725,11 +1697,11 @@ exports[`More renders more screen with 0 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1741,9 +1713,8 @@ exports[`More renders more screen with 0 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1765,7 +1736,6 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1812,11 +1782,11 @@ exports[`More renders more screen with 0 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1828,9 +1798,8 @@ exports[`More renders more screen with 0 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1852,7 +1821,6 @@ exports[`More renders more screen with 0 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -1902,7 +1870,7 @@ exports[`More renders more screen with 2 contacts 1`] = `
       Array [
         Object {
           "borderBottomColor": "rgba(216,216,216,1)",
-          "borderBottomWidth": 1,
+          "borderBottomWidth": 0.5,
         },
         Object {
           "flex": 1,
@@ -1937,11 +1905,11 @@ exports[`More renders more screen with 2 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -1953,9 +1921,8 @@ exports[`More renders more screen with 2 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -1977,7 +1944,6 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -2024,11 +1990,11 @@ exports[`More renders more screen with 2 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -2040,9 +2006,8 @@ exports[`More renders more screen with 2 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -2064,7 +2029,6 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
@@ -2111,11 +2075,11 @@ exports[`More renders more screen with 2 contacts 1`] = `
               Object {
                 "alignItems": "center",
                 "backgroundColor": "#FFFFFF",
+                "borderBottomWidth": 0.5,
                 "borderColor": "rgba(216,216,216,1)",
-                "borderTopWidth": 1,
                 "flexDirection": "row",
                 "justifyContent": "space-between",
-                "padding": 19,
+                "padding": 15,
               },
               undefined,
             ]
@@ -2127,9 +2091,8 @@ exports[`More renders more screen with 2 contacts 1`] = `
             ellipsizeMode="tail"
             style={
               Object {
-                "color": "rgba(170,170,170,1)",
-                "fontFamily": "NunitoSans-Regular",
-                "fontSize": 16,
+                "color": "rgba(74,74,74,1)",
+                "fontSize": 17,
                 "lineHeight": 22,
               }
             }
@@ -2151,7 +2114,6 @@ exports[`More renders more screen with 2 contacts 1`] = `
                 Array [
                   Object {
                     "color": "rgba(74,74,74,1)",
-                    "fontFamily": "NunitoSans-Light",
                     "fontSize": 14,
                     "lineHeight": 22,
                   },
